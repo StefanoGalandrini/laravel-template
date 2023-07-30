@@ -38,8 +38,8 @@
 <body>
 	<div class="welcome">
 		<div class="logo">
-			<img src="{{ Vite::asset('resources/img/laravel.png') }}" alt="Logo Laravel">
-			<img src="{{ Vite::asset('resources/img/vite-logo.png') }}" alt="Logo Vite">
+			<img src="{{ Vite::asset('resources/img/welcome/laravel.png') }}" alt="Logo Laravel">
+			<img src="{{ Vite::asset('resources/img/welcome/vite-logo.png') }}" alt="Logo Vite">
 		</div>
 		<h1>Laravel-Vite Template</h1>
 	</div>
