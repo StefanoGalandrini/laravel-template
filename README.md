@@ -5,5 +5,5 @@
 Laravel-Vite Template
 to be used as a start point for developing applications
 
-Removed: PostCSS
-Added: Sass and Bootstrap
+-   Removed: PostCSS
+-   Added: Sass and Bootstrap
